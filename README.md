@@ -5,7 +5,7 @@
 
 ⚠️가상머신에서 실행 하세요. 물론 복구 방법도 있습니다. 
 
-#복구 방법
+# 복구 방법
 1.Hirens boot cd로 부팅 한다.
 2. win+R (c:\windows\system32)
 3.ntoskrnl.exe.bak를 한번 클릭한다 그리고 f2를 누르고 ntoskrnl.exe로 바꾼다.
