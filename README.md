@@ -1,4 +1,5 @@
 # sans-download
+*현재 배타 버전 입니다! 제가 테스트 해본 결과 버그가 매우 많습니다!*
 사용 방법⬇️
 
 1.Microsoft Defender del.bat을 관리자 권한으로 실행한다.
